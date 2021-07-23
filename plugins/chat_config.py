@@ -21,13 +21,13 @@ async def start_bot(client: Bot, message: Message):
         disable_web_page_preview=True,
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton(text="⏳   SOURCE", callback_data="source_btn"),
-                 InlineKeyboardButton(text="🎯   DESTINATION", callback_data="dest_btn")],
-                [InlineKeyboardButton(text="💡   VIEW CONFIG", callback_data="view_btn"),
-                 InlineKeyboardButton(text="🚫   DEL CONFIG", callback_data="del_cfg_btn")],
+                [InlineKeyboardButton(text="⏳   𝐊𝐀𝐘𝐍𝐀𝐊", callback_data="source_btn"),
+                 InlineKeyboardButton(text="🎯   𝐇𝐄𝐃𝐄𝐅", callback_data="dest_btn")],
+                [InlineKeyboardButton(text="💡   𝐂𝐎𝐍𝐅𝐈𝐆 𝐎𝐙𝐄𝐓", callback_data="view_btn"),
+                 InlineKeyboardButton(text="🚫   𝐂𝐎𝐍𝐅𝐈𝐆 𝐒𝐈𝐋", callback_data="del_cfg_btn")],
                 [InlineKeyboardButton(text="🌀 CLONE 🌀", callback_data="clone_btn")],
-                [InlineKeyboardButton(text="❓   HELP", callback_data="help_btn"),
-                 InlineKeyboardButton(text="❌   CLOSE", callback_data="close_btn")]
+                [InlineKeyboardButton(text="❓   𝐘𝐀𝐑𝐃𝐈𝐌", callback_data="help_btn"),
+                 InlineKeyboardButton(text="❌   🅺🅰🅿🅰🆃", callback_data="close_btn")]
             ]
         )
     )
@@ -171,7 +171,7 @@ async def help_me(client: Bot, message: Message):
         disable_web_page_preview=True,
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton(text="🏠 HOME 🏠️", callback_data="home_btn")]
+                [InlineKeyboardButton(text="🏠 🅰🅽🅰🆂🆈🅰🅵🅰 🏠️", callback_data="home_btn")]
             ]
         )
     )
