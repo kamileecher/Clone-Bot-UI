@@ -33,7 +33,7 @@ async def clone_medias(client: Bot, message: Message):
         text=Presets.CLOSE_BTN_TXT,
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton(text="🌀 CANCEL 🌀", callback_data="stop_clone")]
+                [InlineKeyboardButton(text="🌀 🅸🅿🆃🅰🅻 🌀", callback_data="stop_clone")]
             ]
         )
     )
@@ -96,8 +96,8 @@ async def clone_medias(client: Bot, message: Message):
                         text=Presets.CANCELLED_MSG,
                         reply_markup=InlineKeyboardMarkup(
                             [
-                                [InlineKeyboardButton(text="HOME", callback_data="home_btn"),
-                                 InlineKeyboardButton(text="CLOSE", callback_data="close_btn")]
+                                [InlineKeyboardButton(text="🅰🅽🅰🆂🅰🆈🅵🅰", callback_data="home_btn"),
+                                 InlineKeyboardButton(text="🅺🅰🅿🅰🆃", callback_data="close_btn")]
                             ]
                         )
                     )
