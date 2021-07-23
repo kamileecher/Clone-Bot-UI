@@ -20,7 +20,7 @@ class Presets(object):
     CANCEL_CLONE = "𝐆𝐨𝐫𝐞𝐯 𝐈𝐩𝐭𝐚𝐥 𝐄𝐝𝐢𝐥𝐝𝐢. 𝐁𝐞𝐤𝐥𝐞𝐲𝐢𝐧.. 🕚"
     CANCELLED_MSG = "𝐊𝐨𝐩𝐲𝐚𝐥𝐚𝐦𝐚 𝐈𝐩𝐭𝐚𝐥 𝐄𝐝𝐢𝐥𝐝𝐢. ✅"
     INITIAL_MESSAGE_TEXT = "🔎 𝐃𝐨𝐬𝐲𝐚𝐥𝐚𝐫 𝐊𝐨𝐧𝐭𝐫𝐨𝐥 𝐄𝐝𝐢𝐥𝐢𝐲𝐨𝐫. 🔎"
-    WAIT_MSG = "𝗟𝘂𝘁𝗳𝗲𝗻 𝗕𝗲𝗸𝗹𝗲𝘆𝗶𝗻...\𝗻 𝗞𝘂𝗹𝗹𝗮𝗻ı𝗰ı 𝗵𝗮𝗸𝗹𝗮𝗿ı 𝗼𝗻𝗮𝘆𝗹𝗮𝗻ı𝘆𝗼𝗿.."
+    WAIT_MSG = "𝗟𝘂𝘁𝗳𝗲𝗻 𝗕𝗲𝗸𝗹𝗲𝘆𝗶𝗻... \𝗻 𝗞𝘂𝗹𝗹𝗮𝗻ı𝗰ı 𝗵𝗮𝗸𝗹𝗮𝗿ı 𝗼𝗻𝗮𝘆𝗹𝗮𝗻ı𝘆𝗼𝗿.."
     CLOSE_BTN_TXT = "<code>𝐈𝐩𝐭𝐚𝐥 𝐈𝐜𝐢𝐧 𝐁𝐮𝐭𝐨𝐧𝐚 𝐁𝐚𝐬</code>"
     SOURCE_CONFIRM = "𝐊𝐚𝐲𝐧𝐚𝐤 𝐈𝐃 👉 <code> {}</code>\n\n𝐊𝐚𝐲𝐝𝐞𝐝𝐢𝐥𝐝𝐢 ✅"
     DESTINATION_CONFIRM = "𝐇𝐞𝐝𝐞𝐟 𝐈𝐃 👉 <code> {}</code>\n\n𝐊𝐚𝐲𝐝𝐞𝐝𝐢𝐥𝐝𝐢 ✅"
